@@ -8,8 +8,7 @@ Dataset
 The dataset used for this analysis is the "Bank Marketing Dataset". This dataset contains information on direct marketing campaigns (phone calls) conducted by a Portuguese banking institution. The primary objective of these campaigns was to assess whether clients would subscribe to a term deposit.
 
 Source:
-[Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014 
-Kaggle : [https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset]
+ Dataset : [https://archive.ics.uci.edu/dataset/222/bank+marketing]
 
 Analysis and Findings
 My analytical approach involved a detailed examination of various customer attributes and their correlation with campaign success using Tableau for interactive visualization. The following key queries and their findings are presented:
